@@ -48,6 +48,7 @@ nav h2{
     left: 0;
     right: 0;
     overflow: hidden;
+    
 }
 .main-container{
     flex: 1;
